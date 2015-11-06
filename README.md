@@ -3,7 +3,7 @@
 
 Very simple static html site build with very simple static site generator
 
-http://tags.brace.io/
+https://github.com/braceio/tags
 
 To build the site just execute
 
